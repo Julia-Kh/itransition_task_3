@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "crypto": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
